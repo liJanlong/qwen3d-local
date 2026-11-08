@@ -1,0 +1,26 @@
+# Large / local-only content (see README for how to recreate it)
+/ckpts/
+/data/
+/outputs/
+/my_scenes/
+
+# Weights and media, wherever they land
+*.pth
+*.pt
+*.safetensors
+*.ckpt
+*.mp4
+*.ply
+*.bundle
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

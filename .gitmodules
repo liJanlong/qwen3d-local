@@ -1,0 +1,7 @@
+[submodule "qwen3d"]
+	path = qwen3d
+	url = https://github.com/ll220/qwen3d.git
+	ignore = dirty
+[submodule "third_party/map-anything"]
+	path = third_party/map-anything
+	url = https://github.com/facebookresearch/map-anything.git
